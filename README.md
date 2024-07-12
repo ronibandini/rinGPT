@@ -10,17 +10,25 @@ Parlante BlueTooth
 # Procedimiento de paireo
 
 bluetoothctl
+
 default-agent
+
 power on
+
 trust 00:00:00:00:00:00
+
 pair 00:00:00:00:00:00
+
 connect 00:00:00:00:00:00
 
 # Instalación de dependencias
 
 pip install SpeechRecognition
+
 apt-get install flac
+
 pip install openai
+
 pip install edge-tts
 
 # KEY de OpenAI
