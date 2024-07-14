@@ -31,6 +31,8 @@ pip install openai
 
 pip install edge-tts
 
+pip install arts
+
 # KEY de OpenAI
 
 https://platform.openai.com/
