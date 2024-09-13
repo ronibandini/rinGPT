@@ -57,3 +57,8 @@ defaultAnswer   ="Gracias, pero no puedo atender en este momento"
 
 https://www.youtube.com/watch?v=6RJs4HPoyds
 
+# Contacto
+
+Por cotización de proyectos con IA en Arduino o Raspberry 
+https://x.com/RoniBandini
+https://www.instagram.com/ronibandini/
