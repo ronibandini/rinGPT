@@ -1,13 +1,18 @@
-# rinGPT
+# RinGPT
 
-Timbre con IA que responde a toda hora y envía notificaciones por Telegram
+RinGPT es un timbre que usa agentes de IA para responder las 24hs ya sea vía LLM o por medio de reglas personalizadas. Asimismo notifica por Telegram.
+
+![RinGPT](https://github.com/user-attachments/assets/f702e61a-a0f9-4f77-8e60-76c93da765fd)
 
 # Requerimientos
 
-Placa Unihiker
+Placa Unihiker de DFRobot
 Parlante BlueTooth
+Push button
 
 # Procedimiento de paireo
+
+Para pairear el parlante Bluetooth al Unihiker es necesario conectarse por consola y ejecutar
 
 bluetoothctl
 
@@ -34,6 +39,8 @@ pip install edge-tts
 pip install arts
 
 # KEY de OpenAI
+
+Para obtener los keys de openAI es necesario ir a 
 
 https://platform.openai.com/
 
