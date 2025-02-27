@@ -10,6 +10,11 @@ Placa Unihiker de DFRobot
 Parlante BlueTooth
 Push button
 
+# Esquema
+
+![Esquema](https://github.com/user-attachments/assets/c498c454-72fe-47c4-b2da-336b7062105e)
+
+
 # Procedimiento de paireo
 
 Para pairear el parlante Bluetooth al Unihiker es necesario conectarse por consola y ejecutar
