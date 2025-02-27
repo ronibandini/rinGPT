@@ -69,6 +69,10 @@ defaultAnswer   ="Gracias, pero no puedo atender en este momento"
 
 https://www.youtube.com/watch?v=6RJs4HPoyds
 
+# Actualización
+
+Estoy trabajando en una versión mejorada con input vía cámara y una aplicación más tradicional del concepto de agentes de IA, utilizando múltiples herramientas. El nuevo RinGPT será capaz de detectar personas sospechosas, evaluar si deja pasar automáticamente ciertas personas activando un relay y tomar decisiones con el LLM.
+
 # Contacto
 
 Por cotización de proyectos con IA en Arduino o Raspberry 
