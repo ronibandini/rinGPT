@@ -4,18 +4,26 @@ RinGPT es un timbre que usa agentes de IA para responder las 24hs ya sea vía LL
 
 ![RinGPT](https://github.com/user-attachments/assets/f702e61a-a0f9-4f77-8e60-76c93da765fd)
 
-# Requerimientos
+# Versiones
+
+La version 1.0 es un LLM Powered doorbell
+La version 2.0 es un AI Agent Powered doorbell y se encuentra en la carpeta [/2.0/](https://github.com/ronibandini/rinGPT/tree/main/2.0)
+
+Más sobre la versión 2.0 en https://app.readytensor.ai/publications/ringpt-20-ai-agent-powered-doorbell-gcuSB4vQCesp y 
+https://bandini.medium.com/recepcionista-con-agente-de-ia-v%C3%ADa-openai-4e56ba8ef6db
+
+# 1.0 Requerimientos
 
 Placa Unihiker de DFRobot
 Parlante BlueTooth
 Push button
 
-# Esquema
+# 1.0 Esquema
 
 ![Esquema](https://github.com/user-attachments/assets/c498c454-72fe-47c4-b2da-336b7062105e)
 
 
-# Procedimiento de paireo
+# 1.0 Procedimiento de paireo
 
 Para pairear el parlante Bluetooth al Unihiker es necesario conectarse por consola y ejecutar
 
@@ -43,7 +51,7 @@ pip install edge-tts
 
 pip install arts
 
-# KEY de OpenAI
+# 1.0 KEY de OpenAI
 
 Para obtener los keys de openAI es necesario ir a 
 
@@ -68,10 +76,6 @@ defaultAnswer   ="Gracias, pero no puedo atender en este momento"
 # Demo
 
 https://www.youtube.com/watch?v=6RJs4HPoyds
-
-# Actualización
-
-Estoy trabajando en una versión mejorada con input vía cámara y una aplicación más tradicional del concepto de agentes de IA, utilizando múltiples herramientas. El nuevo RinGPT será capaz de detectar personas sospechosas, evaluar si deja pasar automáticamente ciertas personas activando un relay y tomar decisiones con el LLM.
 
 # Contacto
 
